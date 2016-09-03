@@ -12,12 +12,12 @@
 	<nav id = "left-nav " style="padding-top: 1%">
 	<div class = "card col-md-2">
 		<ul class="nav nav-pills nav-stacked">
-  <li class="nav-item">
-    <a class="nav-link" href="#">Категории</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">Бисер</a>
-  </li>
+  			<li class="nav-item">
+    		<a class="nav-link" href="#">Категории</a>
+  			</li>
+  			<li class="nav-item">
+    		<a class="nav-link" href="#">Бисер</a>
+  			</li>
   <li class="nav-item">
     <a class="nav-link" href="#">Полимерная глина</a>
   </li>

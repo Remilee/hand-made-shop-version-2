@@ -11,7 +11,7 @@
       <a class="nav-link" href="#">Блог</a>
     </li>
   </ul>
-<?php include("AuthModal.php");?>
+<?php include("auth/AuthModal.php");?>
   <form class="form-inline pull-xs-right hidden-xs-down">
     <input class="form-control" type="text" placeholder="Поиск...">
     <button class="btn btn-secondary" type="submit">Найти</button>
